@@ -56,7 +56,7 @@ git push origin master
 
 ## 코드 리뷰 진행 및 반영하기
 
-1. 원본 repository의 `pull request` 패널에서 코드 리뷰를 진행합니다.
+1. 원본 repository의 `pull request` 패널에서 코드 리뷰를 진행합니다. 
 
 ![Review_Assignment_1](../assets/Review_Assignment_1.png)
 
