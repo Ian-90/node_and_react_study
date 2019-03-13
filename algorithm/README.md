@@ -21,7 +21,7 @@ git clone [복사한 URL]
 4. 터미널에서 clone한 repository로 이동한 후, [원본 repository](https://github.com/IanL90/node_and_react_study)를 upstream이라는 별칭으로 추가합니다.
 
 ```bash
-cd web-study-assignment
+cd node_and_react_study
 git remote add upstream https://github.com/IanL90/node_and_react_study
 ```
 
