@@ -42,7 +42,7 @@ leeyohan/
 
 ```bash
 git add .
-git commit -m "feat: Add assignment 1-3"
+git commit -m "feat: assignment 날짜-alogorithm "
 git push origin master
 ```
 
