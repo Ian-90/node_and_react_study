@@ -27,7 +27,7 @@ git remote add upstream https://github.com/IanL90/node_and_react_study
 
 ## 과제 제출하기
 
-1. 자신의 영문 이름으로 폴더를 생성합니다. 그 안에 미션 단위로 폴더를 만들어 과제를 업로드합니다. 이때 각 과제 파일명은 날짜-algorithm.js로 만들어주세요.
+1. 자신의 영문 이름으로 폴더를 algorithm폴더 하위에 생성합니다. 그 안에 미션 단위로 폴더를 만들어 과제를 업로드합니다. 이때 각 과제 파일명은 날짜-algorithm.js로 만들어주세요.
 
 ```plain
 leeyohan/
