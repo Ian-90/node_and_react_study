@@ -4,11 +4,11 @@
 
 1. https://github.com/IanL90/node_and_react_study 을 본인의 github 계정으로 fork합니다.
 
-![Set_Assignment_1](../assets/Set_Assignment_1)
+![Set_Assignment_1](../assets/Set_Assignment_1.png)
 
 2. fork한 원격 repository의 URL을 복사합니다.(주의: 원본(중앙 원격) repository가 아닌 방금 fork한 원격 repository의 URL을 복사해야 합니다!)
 
-![Set_Assignment_2](../assets/Set_Assignment_2)
+![Set_Assignment_2](../assets/Set_Assignment_2.png)
 
 3. 터미널을 실행한 후, 방금 복사한 URL을 붙여넣어 로컬로 clone합니다.
 
@@ -16,7 +16,7 @@
 git clone [복사한 URL]
 ```
 
-![Set_Assignment_3](../assets/Set_Assignment_3)
+![Set_Assignment_3](../assets/Set_Assignment_3.png)
 
 4. 터미널에서 clone한 repository로 이동한 후, [원본 repository](https://github.com/IanL90/node_and_react_study)를 upstream이라는 별칭으로 추가합니다.
 
@@ -48,17 +48,17 @@ git push origin master
 
 4. 브라우저에서 fork한 원격 repository로 접속 후 원본 repository에 대한 pull request를 생성합니다.
 
-![Submit_Assignment_1](../assets/Submit_Assignment_1)
+![Submit_Assignment_1](../assets/Submit_Assignment_1.png)
 
-![Submit_Assignment_2](../assets/Submit_Assignment_2)
+![Submit_Assignment_2](../assets/Submit_Assignment_2.png)
 
-![Submit_Assignment_3](../assets/Submit_Assignment_3)
+![Submit_Assignment_3](../assets/Submit_Assignment_3.png)
 
 ## 코드 리뷰 진행 및 반영하기
 
 1. 원본 repository의 `pull request` 패널에서 코드 리뷰를 진행합니다.
 
-![Review_Assignment_1](../assets/Review_Assignment_1)
+![Review_Assignment_1](../assets/Review_Assignment_1.png)
 
 2. 수정 요구 사항이 있다면 반영한 후 add, commit, push합니다. 만약 이전에 요청한 pull request가 아직 닫히지 않았다면, push까지만 진행하는 것으로도 변경 사항이 이전 pull request에 즉시 반영됩니다.
 
