@@ -1,5 +1,4 @@
 # Nodejs and React Study
----
 
 ## 목표
 사이드 프로젝트를 통한 node와 react 익히기
