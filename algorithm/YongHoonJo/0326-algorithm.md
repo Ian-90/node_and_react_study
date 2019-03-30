@@ -14,7 +14,7 @@ function solution(s) {
 }
 ```
 
-> 몫을 만들기 위해서는 `parseInt()` 를 사용하였다. 
+> 몫을 만들기 위해 `parseInt()` 를 사용하였다. 
 
 <br>
 
