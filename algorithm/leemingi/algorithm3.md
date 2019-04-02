@@ -14,10 +14,10 @@ const solution = (s) =>{
     }else{
         answer1 = s[len/2-1];
         answer2 = s[len/2];
-        return answer1+answer2
+        return `${answer1}${answer2}`
     }
 }
-````
+```
 
 >입력 받은 문자열의 길이를 이용하여 문제 접근<br>
  if문으로 문자열의 길이가 짝수인지, 홀수인지 구분<br>
