@@ -1,6 +1,7 @@
+##ì•Œê³ ë¦¬ì¦˜ ê¹€ì„œë°© ì°¾ê¸°
+
+
 const solution = (seoul) => {
     let answer =  seoul.indexOf("Kim");
-    return `±è¼­¹æÀº ${answer}¿¡ ÀÖ´Ù`
+    return `ê¹€ì„œë°©ì€ ${answer}ì— ìˆë‹¤`
 }
-
-"¿Ö ±úÁú±î"
